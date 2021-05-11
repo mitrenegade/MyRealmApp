@@ -17,6 +17,7 @@
 		8ECAFBD4264A37B6000DB5B9 /* RealmTestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECAFBD3264A37B6000DB5B9 /* RealmTestAppTests.swift */; };
 		8ECAFBDF264A37B6000DB5B9 /* RealmTestAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECAFBDE264A37B6000DB5B9 /* RealmTestAppUITests.swift */; };
 		8ECAFBF3264A3937000DB5B9 /* RealmManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECAFBF2264A3937000DB5B9 /* RealmManager.swift */; };
+		8ECAFBFE264A3B76000DB5B9 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECAFBFD264A3B76000DB5B9 /* Course.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		8ECAFBDE264A37B6000DB5B9 /* RealmTestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmTestAppUITests.swift; sourceTree = "<group>"; };
 		8ECAFBE0264A37B6000DB5B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8ECAFBF2264A3937000DB5B9 /* RealmManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmManager.swift; sourceTree = "<group>"; };
+		8ECAFBFD264A3B76000DB5B9 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 				8ECAFBC5264A37B6000DB5B9 /* Assets.xcassets */,
 				8ECAFBC7264A37B6000DB5B9 /* LaunchScreen.storyboard */,
 				8ECAFBCA264A37B6000DB5B9 /* Info.plist */,
+				8ECAFBFD264A3B76000DB5B9 /* Course.swift */,
 			);
 			path = RealmTestApp;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 			files = (
 				8ECAFBC1264A37B5000DB5B9 /* ViewController.swift in Sources */,
 				8ECAFBF3264A3937000DB5B9 /* RealmManager.swift in Sources */,
+				8ECAFBFE264A3B76000DB5B9 /* Course.swift in Sources */,
 				8ECAFBBD264A37B5000DB5B9 /* AppDelegate.swift in Sources */,
 				8ECAFBBF264A37B5000DB5B9 /* SceneDelegate.swift in Sources */,
 			);

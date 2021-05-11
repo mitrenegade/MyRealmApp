@@ -16,4 +16,10 @@ class RealmManager {
         }
         self.realm = realm
     }
+
+    func save(course: Course) {
+        try? realm.write {
+            realm.add(course)
+        }
+    }
 }
