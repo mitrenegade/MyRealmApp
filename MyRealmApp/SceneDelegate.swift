@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  RealmTestApp
+//  MyRealmApp
 //
 //  Created by Bobby Ren on 5/10/21.
 //

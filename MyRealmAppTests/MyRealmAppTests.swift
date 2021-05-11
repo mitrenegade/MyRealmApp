@@ -1,14 +1,14 @@
 //
-//  RealmTestAppTests.swift
-//  RealmTestAppTests
+//  MyRealmAppTests.swift
+//  MyRealmAppTests
 //
 //  Created by Bobby Ren on 5/10/21.
 //
 
 import XCTest
-@testable import RealmTestApp
+@testable import MyRealmApp
 
-class RealmTestAppTests: XCTestCase {
+class MyRealmAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
